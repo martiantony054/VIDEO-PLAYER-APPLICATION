@@ -72,7 +72,7 @@ export function Home({ onVideoSelect, isMiniPlayerActive }) {
                 </h1>
                 <p className="text-slate-400 text-xs font-medium flex items-center gap-1">
                   <TrendingUp className="w-3 h-3" />
-                  {totalVideos} videos • Learn AI
+                  {totalVideos} videos 
                 </p>
               </div>
             </motion.div>
